@@ -24,6 +24,7 @@
     "lodash": "^4.17.19",
     "minimist": "^1.2.5",
     "rxjs": "~6.4.0",
+    "serialize-javascript": "^4.0.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
