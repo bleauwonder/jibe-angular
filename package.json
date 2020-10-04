@@ -21,11 +21,16 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
+    "handlebars": "^4.7.6",
+    "http-proxy": "^1.18.1",
     "lodash": "^4.17.19",
     "minimist": "^1.2.5",
+    "node-forge": "^0.10.0",
     "rxjs": "~6.4.0",
     "serialize-javascript": "^4.0.0",
+    "tree-kill": "^1.2.2",
     "tslib": "^1.10.0",
+    "yargs-parser": "^20.2.1",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
