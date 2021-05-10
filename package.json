@@ -23,7 +23,7 @@
     "@angular/router": "~8.2.14",
     "handlebars": "^4.7.7",
     "http-proxy": "^1.18.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.5",
     "node-forge": "^0.10.0",
     "rxjs": "~6.4.0",
